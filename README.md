@@ -1,4 +1,4 @@
-## Aloha! I'm a quantum computing and machine learning enthusiast.
+## Hiyah! I'm a quantum computing and machine learning enthusiast.
 
 <!--
 **ssangskriti/ssangskriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
